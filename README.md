@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md. Jubaer Hosain</h1>
-<h3 align="center">I am a competitive programmer and software developer</h3>
+<h3 align="center">I am a Competitive Programmer and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaerhosain&label=Profile%20views&color=0e75b6&style=flat" alt="jubaerhosain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubaerhosain" alt="jubaerhosain" /></a> </p>
 
-- 🌱 I’m currently learning **Advance data structures and algorithms**
+<img align="right" alt="Coding" width="30%" src="https://thumbs.dreamstime.com/b/cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-77862319.jpg">
+
+
+- 🌱 I’m currently learning **Advance Data Structures and Algorithms**
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/**
 
