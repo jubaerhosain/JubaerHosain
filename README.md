@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaerhosain&label=Profile%20views&color=0e75b6&style=flat" alt="jubaerhosain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubaerhosain" alt="jubaerhosain" /></a> </p>
-
 <img align="right" alt="Coding" width="30%" src="https://thumbs.dreamstime.com/b/cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-77862319.jpg">
 
 
