@@ -10,15 +10,20 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jubaer1119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jubaer1119" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/igloo11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igloo11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igloo11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="igloo11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jubaerhosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jubaerhosain" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="igloo11" height="30" width="40" /></a>
+<a title="LinkedIn" href="https://linkedin.com/in/https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/" height="30" width="40" /></a>
+<a title="Facebook" href="https://fb.com/https://www.facebook.com/jubaer1119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jubaer1119" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">My Handles:</h3>
+<p align="left">
+   <a title="CodeChef" href="https://www.codechef.com/users/igloo11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igloo11" height="30" width="40" /></a>
+   <a title="LeetCode" href="https://www.leetcode.com/jubaerhosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jubaerhosain" height="30" width="40" /></a>
+   <a title="HackerRank" href="https://www.hackerrank.com/igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igloo11" height="30" width="40" /></a>
+   <a title="HackerEarth" href="https://www.hackerearth.com/@igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="igloo11" height="30" width="40" /></a>
+   <a title="Codefroces" href="https://codeforces.com/profile/igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="igloo11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
