@@ -63,4 +63,3 @@
   </a>
 </p>
 
-[![Md. Jubaer Hosain's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jubaerhosain&custom_title=Md.%20Jubaer%20Hosain's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/JubaerHosain/)
