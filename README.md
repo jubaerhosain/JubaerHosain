@@ -32,7 +32,7 @@
    <p title="Languages" align="left"> 
       <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
       <a title="C++" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-      <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/javascript.png" alt="javascript" width="28" height="39"/> </a> 
+      <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/javascript.png" alt="javascript" width="32" height="40"/> </a> 
       <a title="Java" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
    </p>
    
@@ -43,8 +43,8 @@
    </p>
    
    <p title="Back-End Development" align="left">
-      <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/730645ff32f6efe57c3049411016e52dc798503a7de8a7831fb1a3432043a75e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6261746e30353030302f696d6167652f75706c6f61642f76313539363633323535342f395f68617a66696b2e706e67" alt="nodejs" width="40" height="40"/> </a>
-      <a title="Express.js" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+      <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
+      <a title="Express.js" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/express-js.jpg" alt="express" width="40" height="40"/> </a> 
    </p>
 </p>
 
