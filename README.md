@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a title="LinkedIn" href="https://linkedin.com/in/https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/" height="30" width="40" /></a>
-<a title="Facebook" href="https://fb.com/https://www.facebook.com/jubaer1119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jubaer1119" height="30" width="40" /></a>
+<a title="LinkedIn" href="https://linkedin.com/in/md-jubaer-hosain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jubaer-hosain/" height="30" width="40" /></a>
+<a title="Facebook" href="https://www.facebook.com/jubaer1119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jubaer1119" height="30" width="40" /></a>
 </p>
 
 
