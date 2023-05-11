@@ -17,7 +17,7 @@
 </p>
 
 
-<h3 align="left">My Handles:</h3>
+<h3 align="left">My CP Handles:</h3>
 <p align="left">
    <a title="CodeChef" href="https://www.codechef.com/users/igloo11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igloo11" height="30" width="40" /></a>
    <a title="LeetCode" href="https://www.leetcode.com/jubaerhosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jubaerhosain" height="30" width="40" /></a>
