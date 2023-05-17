@@ -5,18 +5,6 @@
 
 <img align="right" alt="Coding" width="30%" src="https://thumbs.dreamstime.com/b/cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-77862319.jpg">
 
-
-- 🌱 I’m currently learning **Advance Data Structures and Algorithms**
-
-- 📫 How to reach me **https://www.linkedin.com/in/md-jubaer-hosain-33a7b91b0/**
-
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
-<a title="LinkedIn" href="https://linkedin.com/in/md-jubaer-hosain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jubaer-hosain/" height="30" width="40" /></a>
-<a title="Facebook" href="https://www.facebook.com/jubaer1119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jubaer1119" height="30" width="40" /></a>
-</p>
-
-
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
    <a title="CodeChef" href="https://www.codechef.com/users/igloo11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igloo11" height="30" width="40" /></a>
@@ -47,9 +35,9 @@
    <p title="Backend Development" align="left">
       <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
       <a title="Express.js" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/> </a> 
-   </p>
+<!--    </p>
    
-   <p title="Database" align="left">
+   <p title="Database" align="right"> -->
       <a title="MySQL" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
       <a title="Sequelize" href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/sequelize.svg" alt="sequelize" width="40" height="40"/> </a>
       <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
@@ -65,9 +53,9 @@
 <h3 align="left">My Statistics:</h3>
 <p>
    <a href="https://github.com/JubaerHosain/">
-     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubaerhosain&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="jubaerhosain"/>
+     <img height="200px" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubaerhosain&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="jubaerhosain"/>
    </a>
    <a href="https://github.com/JubaerHosain/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jubaerhosain&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img height="200px" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jubaerhosain&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
 </p>
