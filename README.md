@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaerhosain&label=Profile%20views&color=0e75b6&style=flat" alt="jubaerhosain" /> </p>
 
-<img align="right" alt="Coding" width="30%" src="https://thumbs.dreamstime.com/b/cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-77862319.jpg">
+<!-- <img align="right" alt="Coding" width="30%" src="https://thumbs.dreamstime.com/b/cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-77862319.jpg"> -->
 
 <!-- <h3 align="left">My CP Handles:</h3>
 <p align="left">
