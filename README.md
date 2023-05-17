@@ -5,14 +5,22 @@
 
 <img align="right" alt="Coding" width="30%" src="https://thumbs.dreamstime.com/b/cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-77862319.jpg">
 
-<h3 align="left">My CP Handles:</h3>
+<!-- <h3 align="left">My CP Handles:</h3>
 <p align="left">
    <a title="CodeChef" href="https://www.codechef.com/users/igloo11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igloo11" height="30" width="40" /></a>
    <a title="LeetCode" href="https://www.leetcode.com/jubaerhosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jubaerhosain" height="30" width="40" /></a>
    <a title="HackerRank" href="https://www.hackerrank.com/igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igloo11" height="30" width="40" /></a>
    <a title="HackerEarth" href="https://www.hackerearth.com/@igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="igloo11" height="30" width="40" /></a>
    <a title="Codefroces" href="https://codeforces.com/profile/igloo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="igloo11" height="30" width="40" /></a>
-</p>
+</p> -->
+
+<h3 align="left">My CP Handles:</h3>
+
+ [<img src="https://img.shields.io/badge/LeetCode-151515?style=for-the-badge&logo=leetcode&logoColor=20B2AA">](https://leetcode.com/JubaerHosain/) 
+ [<img src="https://img.shields.io/badge/Codechef-151515?style=for-the-badge&logo=codechef&logoColor=20B2AA">](https://www.codechef.com/users/igloo11) 
+ [<img src="https://img.shields.io/badge/Hackerearth-151515?style=for-the-badge&logo=hackerearth&logoColor=20B2AA&labelColor=555555">](https://www.hackerearth.com/@Igloo11)
+ [<img src="https://img.shields.io/badge/Hackerrank-151515?style=for-the-badge&logo=hackerrank&logoColor=20B2AA&labelColor=555555">](https://www.hackerrank.com/Igloo11)
+ [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/igloo11) 
 
 
 <h3 align="left">Languages and Tools:</h3>
