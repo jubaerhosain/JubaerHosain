@@ -21,15 +21,6 @@
  [<img src="https://img.shields.io/badge/Hackerearth-151515?style=for-the-badge&logo=hackerearth&logoColor=20B2AA&labelColor=555555">](https://www.hackerearth.com/@Igloo11)
  [<img src="https://img.shields.io/badge/Hackerrank-151515?style=for-the-badge&logo=hackerrank&logoColor=20B2AA&labelColor=555555">](https://www.hackerrank.com/Igloo11)
  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/igloo11) 
- 
-<!-- <h3 align="left">My Stacks:</h3>
- 
- [<img src="https://img.shields.io/badge/c-151515?style=for-the-badge&logo=c&logoColor=79740e">](link)
- [<img src="https://img.shields.io/badge/cpp-151515?style=for-the-badge&logo=cpp&logoColor=79740e">](link)
- [<img src="https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e">](link)
- [<img src="https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e">](link)
- [<img src="https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=79740e">](link) -->
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
