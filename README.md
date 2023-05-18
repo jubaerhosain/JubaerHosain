@@ -21,6 +21,14 @@
  [<img src="https://img.shields.io/badge/Hackerearth-151515?style=for-the-badge&logo=hackerearth&logoColor=20B2AA&labelColor=555555">](https://www.hackerearth.com/@Igloo11)
  [<img src="https://img.shields.io/badge/Hackerrank-151515?style=for-the-badge&logo=hackerrank&logoColor=20B2AA&labelColor=555555">](https://www.hackerrank.com/Igloo11)
  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/igloo11) 
+ 
+<!-- <h3 align="left">My Stacks:</h3>
+ 
+ [<img src="https://img.shields.io/badge/c-151515?style=for-the-badge&logo=c&logoColor=79740e">](link)
+ [<img src="https://img.shields.io/badge/cpp-151515?style=for-the-badge&logo=cpp&logoColor=79740e">](link)
+ [<img src="https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e">](link)
+ [<img src="https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e">](link)
+ [<img src="https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=79740e">](link) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,14 +41,14 @@
       <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    </p>
    
-   <p title="Frontend Development" align="left">
+   <p title="Tools" align="left">
       <a title="HTML" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
       <a title="CSS" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
       <a title="Bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a title="ReactJs" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-   </p>
+<!--    </p>
    
-   <p title="Backend Development" align="left">
+   <p title="Backend Development" align="left"> -->
       <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
       <a title="Express.js" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/> </a> 
 <!--    </p>
