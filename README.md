@@ -16,7 +16,7 @@
 
 <h3 align="left">My CP Handles:</h3>
 
- [<img src="https://img.shields.io/badge/LeetCode-151515?style=for-the-badge&logo=leetcode&logoColor=20B2AA">](https://leetcode.com/JubaerHosain/) 
+ [<img src="https://img.shields.io/badge/LeetCode-151515?style=for-the-badge&logo=leetcode&logoColor=20B2AA">](https://leetcode.com/Igloo11/) 
  [<img src="https://img.shields.io/badge/Codechef-151515?style=for-the-badge&logo=codechef&logoColor=20B2AA">](https://www.codechef.com/users/igloo11) 
  [<img src="https://img.shields.io/badge/Hackerearth-151515?style=for-the-badge&logo=hackerearth&logoColor=20B2AA&labelColor=555555">](https://www.hackerearth.com/@Igloo11)
  [<img src="https://img.shields.io/badge/Hackerrank-151515?style=for-the-badge&logo=hackerrank&logoColor=20B2AA&labelColor=555555">](https://www.hackerrank.com/Igloo11)
