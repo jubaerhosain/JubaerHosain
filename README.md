@@ -48,6 +48,7 @@
       <a title="MySQL" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
       <a title="Sequelize" href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/sequelize.svg" alt="sequelize" width="40" height="40"/> </a>
       <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
+      <a title="Mongoose" href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JubaerHosain/JubaerHosain/blob/main/images/mongoose.png" alt="mongoose" width="40" height="40"/> </a>  
    </p>
    
    <p title="Other" align="left">
